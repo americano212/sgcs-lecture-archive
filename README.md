@@ -3,7 +3,7 @@
 
 ## 📃 과목 목록
 
-| Code    | Semester | Class                                                    |
+| Code    | Semester | Lecture                                                    |
 | ------- | -------- | -------------------------------------------------------- |
 | CSE2003 | (2020-1) | [기초공학설계 - Basic Engineering Design](https://github.com/americano212/sgcs-lecture-archive/tree/main/CSE2003%20-%20Basic%20Engineering%20Design) |
 | CSE2035 | (2020-2) | [C프로그래밍 - C programming](https://github.com/americano212/sgcs-lecture-archive/tree/main/CSE2035%20-%20C%20programming) |
